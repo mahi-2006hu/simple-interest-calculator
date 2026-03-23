@@ -1,0 +1,23 @@
+curl https://api.github.com/repos/mahi-2006hu/mcino-Introduction-to-Git-and-GitHub/pulls/1
+
+# Output:
+{
+  "number": 1,
+  "state": "closed",
+  "title": "Bug fix for typo",
+  "user": {
+    "login": "mahi-2006hu"
+  },
+  "head": {
+    "ref": "bug-fix-typo",
+    "repo": {
+      "full_name": "mahi-2006hu/mcino-Introduction-to-Git-and-GitHub"
+    }
+  },
+  "base": {
+    "ref": "main",
+    "repo": {
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    }
+  }
+}
