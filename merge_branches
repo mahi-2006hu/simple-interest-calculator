@@ -1,0 +1,8 @@
+git checkout main
+Switched to branch 'main'
+
+git merge bug-fix-typo
+Updating abc123..def456
+Fast-forward
+example.txt | 1 +
+1 file changed, 1 insertion(+)
