@@ -1,0 +1,7 @@
+git branch -a
+* main
+  bug-fix-typo
+  feature-login
+  remotes/origin/main
+  remotes/origin/bug-fix-typo
+  remotes/origin/feature-login
